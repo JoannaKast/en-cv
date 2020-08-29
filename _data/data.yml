@@ -76,7 +76,7 @@ education:
 #          - Bullet point
 experiences:
     - role: Sales Freelancer
-      time: 2008 - derzeitig
+      time: 2008 - current
       company: Heisig und Kollegen GmbH&CoKG, Heilbronn / Jülich
       details: |
         Tasks included:
@@ -88,7 +88,7 @@ experiences:
       time: 2005 - 2007
       company: CP Capitalpartner AG, Düsseldorf
       details: |
-        Management and training of all sales and collaboration partners in Germany, Austria, Switzerland and Denmark.
+        Management and training of all sales and collaboration partners in Germany, Austria and Switzerland.
           - Leading commission and contract negotiations for sales and collaboration partners
           - Definition of organizational business processes
           - Coordination and development of IT Support for business processes
@@ -102,8 +102,8 @@ experiences:
           - Business development for existing customers
           - Managing 20 sales representatives
           - Quality control
-          - Project management of capaigns
-          - Output resposibility
+          - Project management of campaigns
+          - Output responsibility
     - role: Product Manager for Liquidity Products and Cards (with Power of Attorney)
       time: 2001 - 2003
       company: Credit Suisse AG, Frankfurt
@@ -112,16 +112,16 @@ experiences:
           - Coordination of base processes and agreements
           - Department representation in IT & operation meetings and prioritisational change advisory board
           - Member of the "Private Advice" board
-          - Participation in the re-defintion of the account management system
+          - Participation in the redefinition of the account management system
           - Leading and training of individual employees
         March 2002, Power of Attorney granted
-    - role: Call Center construction Project Manager (Bonn)
+    - role: Call Centre construction Project Manager (Bonn)
       time: 2001 - 2001
       company: Credit Suisse AG, Frankfurt
       details: |
-        Construction- and process organization of a new call center with 50 employees:
+        Construction- and process organization of a new call centre with 50 employees:
           - Design all business processes and operating procedures
-          - Call center representation within corporate headquarters
+          - Call centre representation within corporate headquarters
           - Management of applicant selection and interview processes
           - Management of external consultants (eg Accenture)
           - Coordination of IT operations, sales support, campaign management, marketing and internet presence
@@ -131,7 +131,7 @@ experiences:
       details: |
         Management and development of 17 employees: 
           - Management of process organisation
-          - Implementation of service and process optimisations
+          - Implementation of service and process optimizations
           - Final decision on customer complaints and reclamations within a pre-defined budget
           - Capacity planning
           - Definition of the internal department audit process
@@ -151,11 +151,11 @@ experiences:
       details: |
         Management of existing customer accounts:
           - Processing of exchange and equity transactions
-    - role: Clerical Sales Representitive
+    - role: Clerical Sales Representative
       time: 1997 - 1998
       company: Huppertz&Berchem GbR, Jülich
       details: #
-    - role: Clerical Sales Representitive
+    - role: Clerical Sales Representative
       time: 1993 - 1997
       company: Steuerberatung Schiffer, Jülich
       details: #
