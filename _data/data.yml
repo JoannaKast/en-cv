@@ -34,14 +34,14 @@ sidebar:
 #    goodreads: # Number-Username, e.g. 123456-alandoe
     
     languages:
-      - idiom: Deutsch
-        level: Muttersprache
+      - idiom: German
+        level: Native
 
       - idiom: Englisch
-        level: verhandlungssicher
+        level: conversational
 
       - idiom: Polnisch
-        level: konversationssicher 
+        level: conversational 
 
 #    interests:
 #      - item: 
@@ -57,10 +57,10 @@ sidebar:
 #      Donec quam felis, ultricies nec, pellentesque eu.
 #      Second paragraph if required.
 education:
-    - degree: Ausbildung Rechtsanwaltsfachangestellte
+    - degree: Trained Legal Assistant
       university: RAe Hillemacher &Murach
       time: 1989 - 1992
-    - degree: Fachoberschulreife
+    - degree: High School
       university: Clara Fey Schule 
       time: 1988 - 1989
 #    - degree: MSc in Computer Science
@@ -75,87 +75,87 @@ education:
 #          - Bullet point
 #          - Bullet point
 experiences:
-    - role: Freiberuflicher Vertriebsmitarbeiter
+    - role: Sales Freelancer
       time: 2008 - derzeitig
       company: Heisig und Kollegen GmbH&CoKG, Heilbronn / Jülich
       details: |
-        Freiberufliche Vertriebsaufgaben :
-          - Mitarbeit bei der Entwicklung eines Finanzsoftwaretools
-          - Projektplanung 
-          - Betreuung Vertriebspartner 
-          - Betreuung Bestandskunden
-    - role: Manager Vertriebsunterstützung Innen- und Außendienst
+        Tasks included:
+          - Managing the development of a Finance software tool
+          - Project planning
+          - Management of Sales and Distribution partners
+          - Management of Customer accounts
+    - role: internal/external Sales Support Manager
       time: 2005 - 2007
       company: CP Capitalpartner AG, Düsseldorf
       details: |
-        Betreuung und Schulung aller nationalen Vertriebspartnern und Kooperationspartner der CPAG in DE,A,CH,DK:
-          - Führung der Provisions- und Vertragsverhandlungen mit Vertriebs- und Kooperationspartnern
-          - Definition der organisationsübergreifenden Geschäftsprozesse
-          - Koordination und Weiterentwicklung der IT Unterstützung der Geschäftsprozesses
-          - Steuerung von Sales Kampagnen
-    - role: Managerin Call Center und Leitung Vertriebskoordination
+        Management and training of all sales and collaboration partners in Germany, Austria, Switzerland and Denmark.
+          - Leading commission and contract negotiations for sales and collaboration partners
+          - Definition of organizational business processes
+          - Coordination and development of IT Support for business processes
+          - Leading sales campaigns
+    - role: Call Center and Sales Coordination Manager
       time: 2003 - 2004
       company: Kapitalwerk AG, Düsseldorf
       details: |
-        Betreuung und Schulung der Vertriebspartner:
-          - Operative Vorbereitung und Durchführung Sales Kampagnen (Schwerpunkt Outbound)
-          - Entwicklung des Bestandskundengeschäfts
-          - Fachliche Führung von 20 Handelsvertretern nach §84 HGB
-          - Qualitätssicherung
-          - Projektleitung für Kampagnen
-          - Ergebnisverantwortung
-    - role: Produktmanager mit Prokura Liquiditätsprodukte und Karten
+        Management and training of sales partners:
+          - Operational preparation and implementation of sales campaigns (primarily outbound)
+          - Business development for existing customers
+          - Managing 20 sales representatives
+          - Quality control
+          - Project management of capaigns
+          - Output resposibility
+    - role: Product Manager for Liquidity Products and Cards (with Power of Attorney)
       time: 2001 - 2003
       company: Credit Suisse AG, Frankfurt
       details: |
-        Produktverantwortung für Liquidity Products & Cards (Konto, Lombardkredit, Kreditkarte):
-          - Koordination der Basisprozesse und Rahmenvereinbarungen
-          - Vertretung der Abteilung im IT & Operation Meeting und im Priorisierungskomitee Change Advisory Board
-          - Mitglied des Functional Boards „Private Advise“
-          - Mitarbeit im Projekt zur Ablösung des Kontenverwaltungssystems
-          - Führung und Weiterentwicklung eines Mitarbeiters
-        März 2002, Erteilung Prokura
-    - role: Projektmanagerin Call Center Aufbau (Bonn)
+        Magement of customer accounts, credit cards and Lombard loans:
+          - Coordination of base processes and agreements
+          - Department representation in IT & operation meetings and prioritisational change advisory board
+          - Member of the "Private Advice" board
+          - Participation in the re-defintion of the account management system
+          - Leading and training of individual employees
+        March 2002, Power of Attorney granted
+    - role: Call Center construction Project Manager (Bonn)
       time: 2001 - 2001
       company: Credit Suisse AG, Frankfurt
       details: |
-        Definition der Aufbau- und Ablauforganisation eines neuen Call Centers mit 50 Mitarbeitern:
-          - Definition der gesamten Geschäftsprozesse und Arbeitsanweisungen
-          - Vertretung der Call Center Organisation in der Konzernzentrale
-          - Führung von Bewerberauswahl und Einstellungsgesprächen
-          - Steuerung der externen Berater u.a. von Accenture
-          - Koordination IT Operations, Sales Support, Kampagnenmanagement, Marketing, Internetauftritt
-    - role: Team Managerin Investment - Internet Support
+        Construction- and process organization of a new call center with 50 employees:
+          - Design all business processes and operating procedures
+          - Call center representation within corporate headquarters
+          - Management of applicant selection and interview processes
+          - Management of external consultants (eg Accenture)
+          - Coordination of IT operations, sales support, campaign management, marketing and internet presence
+    - role: Investment Team Manager - Internet Support
       time: 2000 - 2001
       company: Citi Sales Direct GmbH (Citibank Gruppe), Aachen
       details: |
-        Führung und Entwicklung von 17 Mitarbeitern:
-          - Management der Ablauforganisation
-          - Verbesserung des Servicestandards und Prozessoptimierung
-          - Abschließende Entscheidung über das Verfahren mit Kundenreklamationen im Rahmen eines vorgegebenen Budgets
-          - Kapazitätplanung
-          - Definition des internen Audits für die Abteilung
-          - Schnittstelle zur Konzernverwaltung und zur IT
-          - Qualitätssicherung
-    - role: Aufbau der Abteilung Investment Support
+        Management and development of 17 employees: 
+          - Management of process organisation
+          - Implementation of service and process optimisations
+          - Final decision on customer complaints and reclamations within a pre-defined budget
+          - Capacity planning
+          - Definition of the internal department audit process
+          - Interfacing between IT and Management
+          - Quality control
+    - role: Investment Support department Development
       time: 1999 - 2000
       company: Citi Sales Direct GmbH (Citibank Gruppe), Aachen
       details: |
-        Führung und Entwicklung von vier Mitarbeitern:
-          - Prozessdefinition
+        Management and training of a team of 4:
+          - Process definitions
           - Legal & Compliance
-          - Eigenständige Bearbeitung von Kundenreklamationen
-    - role: Kundenberaterin Abteilung Brokerage Service
+          - Management of customer reclamations
+    - role: Customer Support in Brokerage Service department 
       time: 1998 - 1998
       company: Citi Sales Direct GmbH (Citibank Gruppe), Aachen
       details: |
-        Betreuung der Bestandskunden:
-          - Abwicklung von börslichen und außerbörslichen Wertpapiergeschäften
-    - role: Kaufmännische Angestellte
+        Management of existing customer accounts:
+          - Processing of exchange and equity transactions
+    - role: Clerical Sales Representitive
       time: 1997 - 1998
       company: Huppertz&Berchem GbR, Jülich
       details: #
-    - role: Kaufmännische Angestellte
+    - role: Clerical Sales Representitive
       time: 1993 - 1997
       company: Steuerberatung Schiffer, Jülich
       details: #
